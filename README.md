@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hiradhf
 - 👀 I’m interested in BlockChain technology and Cryptocurrency
 - 🌱 I’m currently learning bootstrap/react.js/node.js/web3.js
-- 💞️ I’m looking to collaborate on the blockchain startups
+- 💞️ I’m looking to collaborate with blockchain startups
 - 📫 How to reach me ...
 
 this page is currently not complete.../
